@@ -2,51 +2,61 @@
     {
         "id": 1,
         "name": "Ryu",
-        "image": "http://sirlingames.squarespace.com/storage/street_fighter/ryu_portrait3.gif?__SQUARESPACE_CACHEVERSION=1227423428450"
+        "image": "http://sirlingames.squarespace.com/storage/street_fighter/ryu_portrait3.gif?__SQUARESPACE_CACHEVERSION=1227423428450",
+        "clicked": false
     },
     {
         "id": 2,
         "name": "Ken",
-        "image": "https://pre00.deviantart.net/6fb1/th/pre/f/2014/063/8/9/choose_a_fighter__ken_masters_by_arwencilla-d78y496.png"
+        "image": "https://pre00.deviantart.net/6fb1/th/pre/f/2014/063/8/9/choose_a_fighter__ken_masters_by_arwencilla-d78y496.png",
+        "clicked": false
     },
     {
         "id": 3,
         "name": "Chung-Li",
-        "image": "https://game.capcom.com/cfn/sfv/as/common/character/bustup/l/cnl.png?h=cdcdad24aed42606eede35add77e6d11"
+        "image": "https://game.capcom.com/cfn/sfv/as/common/character/bustup/l/cnl.png?h=cdcdad24aed42606eede35add77e6d11",
+        "clicked": false
     },
     {
         "id": 4,
         "name": "Guile",
-        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/a/a2/Guilerender.png/revision/latest?cb=20170728164132"
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/a/a2/Guilerender.png/revision/latest?cb=20170728164132",
+        "clicked": false
     },
     {
         "id": 5,
         "name": "M.Bison",
-        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/1/17/Bisonrender.png/revision/latest?cb=20170728171523"
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/1/17/Bisonrender.png/revision/latest?cb=20170728171523",
+        "clicked": false
     },
     {
         "id": 6,
         "name": "Zangeif",
-        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/f/f7/IMG_0714.png/revision/latest?cb=20170311041736"
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/f/f7/IMG_0714.png/revision/latest?cb=20170311041736",
+        "clicked": false
     },
     {
         "id": 7,
         "name": "Dhalsim",
-        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/b1/Dhalsimrender.png/revision/latest?cb=20170728164253"
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/b1/Dhalsimrender.png/revision/latest?cb=20170728164253",
+        "clicked": false
     },
     {
         "id": 8,
         "name": "Fei Long",
-        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/e/e0/SFVFeiLong.jpg/revision/latest?cb=20160629140902"
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/e/e0/SFVFeiLong.jpg/revision/latest?cb=20160629140902",
+        "clicked": false
     },
     {
         "id": 9,
         "name": "Vega",
-        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/SSFVega.png"
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/SSFVega.png",
+        "clicked": false
     },
     {
         "id": 10,
         "name": "Balrog",
-        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/4/43/Balrog_Work.png/revision/latest?cb=20120523224056"
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/4/43/Balrog_Work.png/revision/latest?cb=20120523224056",
+        "clicked": false
     }       
 ]

@@ -1,32 +1,23 @@
 import React from "react";
-import Card from "./Card";
-import characters from "../../characters.json";
+import "./CharacterCard.css";
 
-class CharacterCard extends React.Component {
-    state = {
-        count: 0,
-    };
 
-    imcrementCounter = () => {
-        this.setState({
-            count: this.state.count + 1,
-        });
-    };
+const CharacterCard = props => (
+    <div
+    style= {{
+        cursor: "pointer",
+    }}
+    
+    onClick={() => props.clickedCard(props.id)} className = "card">
+    
+        <div className = "img-container">
+            <img className = "responsive-img" src = {props.image}/>
+        
+       </div>
+    </div>
 
-    render() {
-        return (
-            <div
-                style={{
-                    cursor: "pointer",
-                }}
-                 onclick={this.incrementCounter}>
-                <Card
-                    clickCounter={this.state.count}
-                    image={this.props.image}
-                />
-            </div>
-        );
-    }
-}
+
+);
 
 export default CharacterCard;
+
