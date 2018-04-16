@@ -44,7 +44,7 @@
     {
         "id": 8,
         "name": "Fei Long",
-        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/e/e0/SFVFeiLong.jpg/revision/latest?cb=20160629140902",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/f/f3/Fei_Long.png/revision/latest?cb=20161207050814",
         "clicked": false
     },
     {
@@ -58,5 +58,35 @@
         "name": "Balrog",
         "image": "https://vignette.wikia.nocookie.net/streetfighter/images/4/43/Balrog_Work.png/revision/latest?cb=20120523224056",
         "clicked": false
-    }       
+    },
+    {
+        "id": 11,
+        "name": "Sagat",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/9/92/Street_Fighter_V_Sagat.png/revision/latest?cb=20161007143610",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Cammy",
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/1/19/Cammyrender.png/revision/latest?cb=20170728163129",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "Akuma",
+        "image": "https://vignette.wikia.nocookie.net/streetfighter/images/2/2c/Akumarender.png/revision/latest?cb=20170728162459",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "name": "Charlie",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Charlie_%28Street_Fighter%29.png/220px-Charlie_%28Street_Fighter%29.png",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "name": "Rolento",
+        "image": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/8/8e/Rolento.png/revision/latest?cb=20160725215001",
+        "clicked": false
+    }               
 ]

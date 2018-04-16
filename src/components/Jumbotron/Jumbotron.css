@@ -1,6 +1,36 @@
 .jumbotron {
     width: 100%;
-    text-align: center;
-    font-size: 3rem;
-    background-color: blue;
+    text-align: right;
+    font-size: 10px;
+    background-color: black;
+    background-image: url("https://streetfighter.com/wp-content/uploads/2018/01/logo_0000_StreetFighter1.png");
+    background-repeat: no-repeat;
+    border: 10px solid black;
+    background-position-y: -0.4cm;
+    font-family: 'Faster One', cursive;
+    height: 300px;
+    padding-right: 100px;
 }
+
+.main-container {
+    width: 100%;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    text-align: right;
+    font-family: 'Faster One', cursive;
+    color: red;
+    font-size: 80px;
+}
+
+h2 {
+    color:white;
+    font-size: 40px;
+    font-family: 'Teko', sans-serif;
+}
+
+alertMessage {
+    color: white;
+}
+
