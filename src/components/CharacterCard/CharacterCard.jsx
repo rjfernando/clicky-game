@@ -4,8 +4,8 @@ import "./CharacterCard.css";
 
 const CharacterCard = props => (
     <div
-    style= {{
-        cursor: "pointer",
+        style= {{
+            cursor: "pointer",
     }}
     
     onClick={() => props.clickedCard(props.id)} className = "card">
