@@ -21,7 +21,7 @@
     text-align: right;
     font-family: 'Faster One', cursive;
     color: red;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 h2 {
@@ -30,7 +30,5 @@ h2 {
     font-family: 'Teko', sans-serif;
 }
 
-alertMessage {
-    color: white;
-}
+
 
