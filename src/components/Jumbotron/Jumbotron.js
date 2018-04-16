@@ -11,7 +11,6 @@ const Jumbotron = props => {
           <div className="jumbotron">
             <h1>Clicky-Game</h1>
                <h2 className = "Jumbotron">Your Score: {props.children}</h2>
-               <h2 className = "topScore">Top Score: {props.children}</h2>
           </div>
         </div>
       </div>
